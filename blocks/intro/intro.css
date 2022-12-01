@@ -1,9 +1,6 @@
 .intro {
-    display: flex;
-    flex-direction: column;
     color: #FFFFFF;
     margin: 92px auto 0;
     width: 984px;
-    text-align: left;
-    
+    text-align: left;  
 }

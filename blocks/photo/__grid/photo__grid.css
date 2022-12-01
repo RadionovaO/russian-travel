@@ -1,6 +1,6 @@
 .photo__grid {
     list-style: none;
-    gap: 16px;
+    grid-gap: 16px;
     margin: 0;
     padding: 0;
     display: grid;
