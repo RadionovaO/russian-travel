@@ -6,3 +6,19 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(248px, 1fr));
 }
+
+@media screen and (max-width: 1041px) {
+    .photo__grid {
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        grid-gap: 14px;
+    }
+    
+}
+
+@media screen and (max-width: 785px) {
+    .photo__grid {
+        grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
+        grid-gap: 16px;
+    }
+  }
+  

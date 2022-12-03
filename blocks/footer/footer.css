@@ -2,7 +2,22 @@
     display: flex;
     margin-top: 92px;
     margin: 0 auto;
-    width: 1184px;
+    max-width: 1184px;
     justify-content: space-between;
     padding-bottom: 24px;
+}
+
+@media screen and (max-width: 1041px) {
+    .footer {
+        max-width: 928px;
+    }
+    
+}
+
+@media screen and (max-width: 785px) {
+    .footer {
+        max-width: 785px;
+        margin: 0 24px 0;
+    }
+    
 }

@@ -11,3 +11,10 @@
 .place__link:hover {
     opacity: .5;
 }
+
+@media screen and (max-width: 785px) {
+    .place__link {
+        max-width: 352px;
+    }
+    
+}

@@ -11,3 +11,11 @@
     max-height: 200px;
     text-align: center;
   }
+
+  @media screen and (max-width: 785px) {
+    .lead__title {
+      max-width: 720px;
+      margin: 0 24px 0;
+    }
+  }
+   
