@@ -1,20 +1,33 @@
 .photo {
-    margin: 0;
-    padding: 92px 48px 0;
-    width: 100%;
-    max-width: 1184px;
+  margin: 0;
+  margin-top: 92px;
+  padding: 0 48px;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 @media screen and (max-width: 1041px) {
-    .photo {
-      max-width: 928px;
-    }
+  .photo {
+    max-width: 928px;
+    width: 100%;;
   }
+}
 
 @media screen and (max-width: 785px) {
-    .photo {
-      max-width: 720px;
-      padding: 88px 24px 0;
-    }
+  .photo {
+    max-width: 720px;
+    width: 100%;
+    padding: 0 24px;
+    margin-top: 88px;
   }
-  
+}
+
+@media screen and (max-width: 337px) {
+  .photo {
+    max-width: 288px;
+    width: 100%;
+    padding: 0 16px;
+    margin-top: 64px;
+  }
+
+}

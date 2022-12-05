@@ -22,7 +22,17 @@
         max-width: 720px;
         grid-gap: 48px 28px;
         grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+        margin-bottom: 73px;
     }
     
 }
   
+@media screen and (max-width: 337px) {
+    .place {
+        max-width: 320px;
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 50px;
+    }
+    
+}

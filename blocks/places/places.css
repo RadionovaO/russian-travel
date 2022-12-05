@@ -1,21 +1,32 @@
 .places {
-    color: #FFFFFF;
-    max-width: 984px;
-    margin: 90px auto 92px;
+  color: #FFFFFF;
+  max-width: 984px;
+  margin: 85px auto 90px;
 }
 
 @media screen and (max-width: 1041px) {
-    .places {
-      max-width: 928px;
-      padding: 0 48px;
-    }
+  .places {
+    max-width: 928px;
+    padding: 0 48px;
+    margin: 75px 0 90px;
   }
+}
 
 
-  @media screen and (max-width: 785px) {
-    .places {
-        max-width: 720px;
-        padding: 0 24px;
-    }
-    
+@media screen and (max-width: 785px) {
+  .places {
+    max-width: 720px;
+    padding: 0 24px;
+    margin: 88px 0 90px;
   }
+
+}
+
+@media screen and (max-width: 337px) {
+  .places {
+    max-width: 320px;
+    padding: 0;
+    margin: 64px 0 66px;
+  }
+
+}

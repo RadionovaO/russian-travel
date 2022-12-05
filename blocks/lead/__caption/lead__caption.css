@@ -19,3 +19,9 @@
     }
   }
   
+  @media screen and (max-width: 337px) {
+    .lead__caption {
+      margin-left: 16px;
+    }
+    
+  }

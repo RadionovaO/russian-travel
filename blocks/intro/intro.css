@@ -2,20 +2,27 @@
     color: #FFFFFF;
     margin: 92px auto 0;
     max-width: 984px;
-    text-align: left;  
+    text-align: left;
 }
 
 @media screen and (max-width: 1041px) {
     .intro {
         margin: 92px 48px 0;
     }
-    
+
 }
 
 @media screen and (max-width: 785px) {
     .intro {
-      max-width: 720px;
-      margin: 88px 24px 0;
+        max-width: 720px;
+        margin: 88px 24px 0;
     }
-  }
-  
+}
+
+@media screen and (max-width: 337px) {
+    .intro {
+        max-width: 288px;
+        margin: 64px 16px 0;
+    }
+
+}

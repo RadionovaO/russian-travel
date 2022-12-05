@@ -6,5 +6,12 @@
   justify-content: center;
   text-align: center;
   margin: auto;
-  max-width: 560px;
+  max-width: 1184px;
+}
+
+@media screen and (max-width: 337px) {
+  .cover__overlay {
+    max-width: 288px;
+  }
+  
 }

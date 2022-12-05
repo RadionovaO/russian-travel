@@ -20,3 +20,12 @@
         margin: 0;
     }
 }
+
+@media screen and (max-width: 337px) {
+    .header {
+        max-width: 288px;
+        padding: 16px 16px 0;
+        max-height: 42px;
+    }
+    
+}

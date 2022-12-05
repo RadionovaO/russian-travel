@@ -18,9 +18,18 @@
 @media screen and (max-width: 785px) {
     .lead__image {
       width: 100%;
-      max-width: 785px;
+      max-width: 768px;
       max-height: 480px;
       margin-top: 56px;
     }
   }
     
+@media screen and (max-width: 337px) {
+  .lead__image {
+    width: 100%;
+    max-width: 320px;
+    margin-top: 40px;
+
+  }
+  
+}
