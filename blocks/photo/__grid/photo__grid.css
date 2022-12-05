@@ -7,7 +7,7 @@
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 }
 
-@media screen and (max-width: 1041px) {
+@media screen and (max-width: 1039px) {
     .photo__grid {
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
         grid-gap: 14px;
@@ -17,7 +17,6 @@
 
 @media screen and (max-width: 785px) {
     .photo__grid {
-        grid-template-columns: repeat(auto-fit, minmax(352px, 1fr));
         grid-gap: 16px;
     }
 }

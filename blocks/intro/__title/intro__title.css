@@ -10,7 +10,7 @@
 }
 
 @media screen and (max-width: 785px) {
-    .lead {
+  .intro__title {
       max-width: 720px;
     }
   }
