@@ -1,25 +1,18 @@
 .place__image {
-    grid-row: 2;
-    grid-column: 1;
-    object-fit: cover;
-    object-position: 0 0;
-    width: 100%;
-    max-width: 460px;
-    height: 100%; 
-}
-
-@media screen and (max-width: 1041px) {
-    .place__image {
-      max-width: 440px;
-    }
+  grid-row: 2;
+  grid-column: 1;
+  object-fit: cover;
+  object-position: 0 0;
+  width: 100%;
+  max-width: 460px;
+  height: 100%;
 }
 
 @media screen and (max-width: 785px) {
   .place__image {
-    max-width: 340px;
     max-height: 340px;
   }
-  
+
 }
 
 @media screen and (max-width: 337px) {
@@ -27,5 +20,5 @@
     max-width: 320px;
     max-height: 320px;
   }
-  
+
 }

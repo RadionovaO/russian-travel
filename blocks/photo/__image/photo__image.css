@@ -7,16 +7,12 @@
 
 @media screen and (max-width: 1041px) {
   .photo__image {
+    max-width: 300px;
   }
 }
 
 @media screen and (max-width: 785px) {
   .photo__image {
+    max-width: 352px;
   }
-}
-
-@media screen and (max-width: 337px) {
-  .photo__image {
-  }
-
 }

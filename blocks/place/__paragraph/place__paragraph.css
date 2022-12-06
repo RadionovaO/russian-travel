@@ -22,15 +22,21 @@
     }
 }
 
+@media screen and (max-width: 620px) {
+    .place__paragraph {
+        max-width: 615px;
+    }
+}
+
 @media screen and (max-width: 337px) {
     .place__paragraph {
         max-width: 288px;
-        margin: 0 0 16px 16px;
+        margin: 0 0 23px 16px;
     }
 
     .place__paragraph:last-child {
         max-width: 288px;
         margin: 0 0 0 16px;
     }
-    
+
 }

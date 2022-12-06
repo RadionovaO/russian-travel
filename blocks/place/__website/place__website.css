@@ -5,10 +5,17 @@
     grid-row: 1;
 }
 
+@media screen and (max-width: 620px) {
+    .place__website {
+        align-self: flex-start;
+    }
+    
+}
+
 @media screen and (max-width: 337px) {
     .place__website {
         align-self: flex-start;
         margin-left: 16px;
     }
-    
+
 }

@@ -11,7 +11,7 @@
     .footer {
         max-width: 928px;
     }
-    
+
 }
 
 @media screen and (max-width: 785px) {
@@ -19,7 +19,7 @@
         max-width: 768px;
         margin: 0 24px 0;
     }
-    
+
 }
 
 
@@ -30,5 +30,5 @@
         min-height: 310px;
         margin: 64px 118px 24px 16px;
     }
-    
+
 }
