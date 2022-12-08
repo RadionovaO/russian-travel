@@ -9,26 +9,26 @@
     margin: 0;
 }
 
-@media screen and (max-width: 1041px) {
+@media screen and (max-width: 1044px) {
     .place__paragraph {
         margin: 0 0 27px 0;
     }
 }
 
-@media screen and (max-width: 785px) {
+@media screen and (max-width: 788px) {
     .place__paragraph {
         max-width: 440px;
         font-size: 16px;
     }
 }
 
-@media screen and (max-width: 620px) {
+@media screen and (max-width: 623px) {
     .place__paragraph {
         max-width: 615px;
     }
 }
 
-@media screen and (max-width: 337px) {
+@media screen and (max-width: 340px) {
     .place__paragraph {
         max-width: 288px;
         margin: 0 0 23px 16px;

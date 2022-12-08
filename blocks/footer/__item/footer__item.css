@@ -2,7 +2,7 @@
     margin-right: 18px;
 }
 
-@media screen and (max-width: 337px) {
+@media screen and (max-width: 340px) {
     .footer__item {
       margin-bottom: 32px;
     }

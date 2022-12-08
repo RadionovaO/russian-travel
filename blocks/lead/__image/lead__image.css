@@ -8,14 +8,14 @@
   margin-top: 64px;
 }
 
-@media screen and (max-width: 1041px) {
+@media screen and (max-width: 1044px) {
   .lead__image {
     max-width: 928px;
     margin-top: 56px;
   }
 }
 
-@media screen and (max-width: 785px) {
+@media screen and (max-width: 788px) {
   .lead__image {
     width: 100%;
     max-width: 768px;
@@ -24,7 +24,7 @@
   }
 }
 
-@media screen and (max-width: 337px) {
+@media screen and (max-width: 340px) {
   .lead__image {
     width: 100%;
     max-width: 320px;

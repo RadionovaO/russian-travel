@@ -5,13 +5,13 @@
   display: block;
 }
 
-@media screen and (max-width: 1041px) {
+@media screen and (max-width: 1044px) {
   .photo__image {
     max-width: 300px;
   }
 }
 
-@media screen and (max-width: 785px) {
+@media screen and (max-width: 788px) {
   .photo__image {
     max-width: 352px;
   }

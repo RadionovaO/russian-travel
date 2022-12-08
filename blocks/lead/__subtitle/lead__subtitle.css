@@ -11,14 +11,14 @@
   text-align: center;
 }
 
-@media screen and (max-width: 785px) {
+@media screen and (max-width: 788px) {
   .lead__subtitle {
-    margin: 32px auto 0;
-    font-size: calc(16px + (30 - 16) * (100vw - 320px) / (785 - 320));
+    margin: 34px auto 0;
+    font-size: calc(16px + (30 - 16) * (100vw - 320px) / (768 - 320));
   }
 }
 
-@media screen and (max-width: 337px) {
+@media screen and (max-width: 340px) {
   .lead__subtitle {
     margin: 16px 16px 0;
     line-height: 20px;

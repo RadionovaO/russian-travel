@@ -9,14 +9,14 @@
     margin-bottom: 0;
 }
 
-@media screen and (max-width: 1041px) {
+@media screen and (max-width: 1044px) {
     .place {
         grid-gap: 48px 32px;
         grid-template-columns: minmax(440px, 1fr);
     }
 }
 
-@media screen and (max-width: 785px) {
+@media screen and (max-width: 788px) {
     .place {
         grid-gap: 48px 28px;
         grid-template-columns: minmax(340px, 1fr);
@@ -34,12 +34,12 @@
 
 }
 
-@media screen and (max-width: 337px) {
+@media screen and (max-width: 340px) {
     .place {
         display: flex;
         flex-direction: column;
         margin-bottom: 50px;
-        gap: 32px;
+        gap: 33px;
     }
 
 }

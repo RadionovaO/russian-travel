@@ -12,15 +12,16 @@
   text-align: center;
 }
 
-@media screen and (max-width: 785px) {
+@media screen and (max-width: 788px) {
   .lead__title {
     max-width: 720px;
     margin: 0 24px 0;
-    font-size: calc(40px + (96 - 40) * (100vw - 320px) / (785 - 320));
+    font-size: calc(40px + (96 - 40) * (100vw - 320px) / (768 - 320));
+    line-height: 1;
   }
 }
 
-@media screen and (max-width: 337px) {
+@media screen and (max-width: 340px) {
   .lead__title {
     max-width: 288px;
     line-height: 44px;

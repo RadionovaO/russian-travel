@@ -5,24 +5,24 @@
     text-align: left;
 }
 
-@media screen and (max-width: 1041px) {
+@media screen and (max-width: 1044px) {
     .intro {
         margin: 92px 48px 0;
     }
 
 }
 
-@media screen and (max-width: 785px) {
+@media screen and (max-width: 788px) {
     .intro {
         max-width: 720px;
-        margin: 88px 24px 0;
+        margin: 85px 24px 0;
     }
 }
 
-@media screen and (max-width: 337px) {
+@media screen and (max-width: 340px) {
     .intro {
         max-width: 288px;
-        margin: 64px 16px 0;
+        margin: 62px 16px 0;
     }
 
 }

@@ -5,14 +5,14 @@
     grid-row: 1;
 }
 
-@media screen and (max-width: 620px) {
+@media screen and (max-width: 623px) {
     .place__website {
         align-self: flex-start;
     }
     
 }
 
-@media screen and (max-width: 337px) {
+@media screen and (max-width: 340px) {
     .place__website {
         align-self: flex-start;
         margin-left: 16px;
