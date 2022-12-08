@@ -1,7 +1,6 @@
 .lead {
   align-items: center;
   text-align: center;
-  max-height: 1005px;
   margin: 56px auto 0;
   max-width: 984px;
 }
@@ -17,15 +16,12 @@
 @media screen and (max-width: 788px) {
   .lead {
     max-width: 768px;
-    width: 100%;
-    margin: 48px 0 0;
   }
 }
 
 @media screen and (max-width: 340px) {
   .lead {
     max-width: 320px;
-    width: 100%;
   }
 
 }

@@ -1,6 +1,6 @@
 .photo__grid {
     list-style: none;
-    grid-gap: 16px;
+    gap: 16px;
     margin: 0;
     padding: 0;
     display: grid;
@@ -12,7 +12,7 @@
     .photo__grid {
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(4, 1fr);
-        grid-gap: 14px;
+        gap: 14px;
     }
 
 }
@@ -21,14 +21,14 @@
     .photo__grid {
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(6, 1fr);
-        grid-gap: 16px;
+        gap: 16px;
     }
 }
 
 @media screen and (max-width: 340px) {
     .photo__grid {
         grid-template-columns: 1fr;
-        grid-gap: 12px;
+        gap: 12px;
     }
 
 }

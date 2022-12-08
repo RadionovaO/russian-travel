@@ -5,7 +5,7 @@
     line-height: 76px;
     max-width: 460px;
     margin: 0;
-    font-family: 'Inter Black', Arial, sans-serif;
+    font-family: 'Inter', Arial, sans-serif;
 }
 
 @media screen and (max-width: 1044px) {
@@ -29,8 +29,6 @@
         max-width: 288px;
         font-size: 32px;
         line-height: 35px;
-        align-self: flex-start;
-        gap: 32px;
         margin-left: 16px;
     }
 
