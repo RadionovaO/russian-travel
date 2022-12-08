@@ -1,13 +1,13 @@
 .intro {
     color: #FFFFFF;
-    margin: 92px auto 0;
+    margin: 90px auto 0;
     max-width: 984px;
     text-align: left;
 }
 
 @media screen and (max-width: 1044px) {
     .intro {
-        margin: 92px 48px 0;
+        margin: 90px 48px 0;
     }
 
 }

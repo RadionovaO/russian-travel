@@ -16,3 +16,10 @@
     max-width: 352px;
   }
 }
+
+@media screen and (max-width: 550px) {
+  .photo__image {
+    max-width: 500px;
+  }
+  
+}
