@@ -25,6 +25,7 @@
     min-height: 640px;
     max-width: 1024px;
   }
+
 }
 
 @media screen and (max-width: 788px) {
@@ -40,6 +41,7 @@
     min-height: 320px;
     max-width: 620px;
   }
+
 }
 
 @media screen and (max-width: 340px) {

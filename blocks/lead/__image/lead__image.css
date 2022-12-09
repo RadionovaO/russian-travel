@@ -13,6 +13,7 @@
     max-width: 928px;
     margin-top: 56px;
   }
+
 }
 
 @media screen and (max-width: 788px) {
@@ -20,6 +21,7 @@
     max-width: 768px;
     max-height: 480px;
   }
+
 }
 
 @media screen and (max-width: 340px) {

@@ -9,12 +9,14 @@
   .photo__image {
     max-width: 300px;
   }
+
 }
 
 @media screen and (max-width: 788px) {
   .photo__image {
     max-width: 352px;
   }
+
 }
 
 @media screen and (max-width: 550px) {
