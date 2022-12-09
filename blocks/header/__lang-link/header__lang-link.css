@@ -1,6 +1,7 @@
 .header__lang-link {
   transition: opacity 0.3s linear;
   opacity: 2;
+  color: #FFFFFF;
 }
 
 .header__lang-link:hover {

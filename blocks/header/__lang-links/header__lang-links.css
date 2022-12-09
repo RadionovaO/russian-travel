@@ -1,7 +1,6 @@
 .header__lang-links {
   display: flex;
   align-items: flex-end;
-  color: #FFFFFF;
   text-decoration: none;
   gap: 18px;
   padding-bottom: 4px;
